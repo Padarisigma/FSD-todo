@@ -4,7 +4,6 @@ import { IUser } from '../../entities/table-user/model/types'
 import { users } from '../../entities/table-user/model/data'
 import { addUser } from '../../entities/service/add'
 import Button from '../../shared/ui/button'
-import ThemeToggle from '../../shared/ui/theme'
 import ToolBar from '../../features/table-user/toolbar'
 
 export default function TableUser() {
