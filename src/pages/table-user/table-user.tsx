@@ -99,7 +99,7 @@ export default function TableUser() {
 		<div className='w-[90%] m-auto flex justify-between items-center'>
 			<h1 className='mt-2 font-semibold text-[33px] hover:bg-gray-200'>
 				TABLE USERS
-				<span className='text-blue-400 font-bold'> FSD</span>
+				<span className='text-purple-800 font-bold'> FSD</span>
 			</h1>
 			<div className='flex gap-[10px] items-center'>
 				<Button
@@ -110,7 +110,6 @@ export default function TableUser() {
 				>
 					Add User
 				</Button>
-				<ThemeToggle />
 			</div>
 		</div>
 			<div className='flex items-center'>
